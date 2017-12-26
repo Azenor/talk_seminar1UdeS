@@ -1,16 +1,3 @@
-## TODO
+# Effets de la température sur la régulation trophique
 
-## Columns
-
-~~~ latex
-\begincols
-\column{0.48\textwidth}
-
-Column 1
-
-\hfill\column{0.48\textwidth}
-
-Column 2
-
-\stopcols
-~~~
+Séminaire 1 à l'université de Sherbrooke: présentation du projet de doctorat.
